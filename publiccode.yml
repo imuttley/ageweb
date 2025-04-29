@@ -25,7 +25,7 @@ description:
       src="../enea-table-gest.js"></script>
 
       <body>
-          <enea-table-gest name="allegati|gare|avvisi|esiti" listnum="2"/>
+          <enea-table-gest showlogo="true|false" name="allegati|gare|avvisi|esiti" listnum="1|2|3|4"/>
       </body>
 
       </html>
