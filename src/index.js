@@ -9,7 +9,7 @@ import reportWebVitals from './reportWebVitals';
 //https://github.com/bitovi/react-to-web-component/blob/main/docs/api.md
 
 const webcomponent = r2wc(ENEATables, React, ReactDOM,{
-  props:{showlogo:"string", head:"string", name:"string",listnum:'number'}}
+  props:{showlogo:"string", head:"string", name:"string",listnum:"number",mindate:"string",maxdate:"string"}}
 );
 
 //const mylogo = r2wc(ENEAlogo,React,ReactDOM);
